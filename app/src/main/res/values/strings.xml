@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="email_address_required">Email Address (required)</string>
+    <string name="password_required">Password (required)</string>
+    <string name="sign_in">Sign In</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">E-m@il</string>
+</resources>
