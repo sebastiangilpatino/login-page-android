@@ -8,4 +8,8 @@
     <string name="create_a_new_account">Create a new account</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="email">E-m@il</string>
+    <string name="email_address">Email address</string>
+    <string name="Password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
 </resources>
