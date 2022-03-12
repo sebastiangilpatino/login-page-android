@@ -7,6 +7,8 @@ import android.view.View
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import androidx.recyclerview.widget.LinearLayoutManager
+import kotlinx.android.synthetic.main.activity_recycler_list_view.*
 
 class MainActivity : AppCompatActivity() {
     var userList = ArrayList<User>(
@@ -18,7 +20,6 @@ class MainActivity : AppCompatActivity() {
             User("Anderson", "Arbelaez", "aarbelaez@gmail.com", "12345")
         )
     )
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

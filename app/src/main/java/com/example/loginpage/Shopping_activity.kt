@@ -1,8 +1,10 @@
 package com.example.loginpage
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 
@@ -16,7 +18,11 @@ class Shopping_activity : AppCompatActivity() {
         output.text = input
     }
     fun clickPic1(view: View){
-        Toast.makeText(this, "You have chosen the Electronics category of shopping", Toast.LENGTH_LONG).show()
+        val intent = Intent(this, RecyclerListView::class.java)
+//        val chosenProduct = findViewById<EditText>(R.id.username).text.toString()
+//        intent.putExtra("product", )
+        startActivity(intent)
+//        Toast.makeText(this, "You have chosen the Electronics category of shopping", Toast.LENGTH_LONG).show()
     }
     fun clickPic2(view: View){
         Toast.makeText(this, "You have chosen the Clothing category of shopping", Toast.LENGTH_LONG).show()

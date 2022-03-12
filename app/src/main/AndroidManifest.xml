@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginPage">
         <activity
+            android:name=".ProductDetailed"
+            android:exported="false" />
+        <activity
+            android:name=".RecyclerListView"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
