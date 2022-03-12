@@ -7,8 +7,12 @@
         <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/customborder.xml" value="0.2985" />
         <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2945" />
         <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_main.xml" value="0.2787878787878788" />
+        <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_product_detailed.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_recycler_list_view.xml" value="0.1" />
         <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_register.xml" value="0.32971014492753625" />
         <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_shopping.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/detailed.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/JGILPATI/AndroidStudioProjects/LoginPage/app/src/main/res/layout/item_list.xml" value="0.25" />
       </map>
     </option>
   </component>
